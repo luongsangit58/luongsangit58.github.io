@@ -1,0 +1,38 @@
+*{margin: 0px; padding: 0px;}
+body{
+	background: #FFF;
+}
+ul>li{
+	margin-left: 7%;
+	font-style: italic;
+}
+.Pname{
+	text-align: center;
+	font-size: 18px;
+	color:#FF0000;
+	font-weight: bold;
+}
+.PnameLG{
+	text-align: center;
+	font-size: 30px;
+	color:#FF0000;
+	font-weight: bold;
+}
+.Pjob{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+.Rtitle{
+	font-weight: bold;
+}
+.txtPhu{
+	color: #8F8F8F;
+}
+.txtLeft{
+	margin-top: 0px;
+}
+.Ltitle{
+	font-weight: bold;
+	margin-top: 5%;
+}
