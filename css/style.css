@@ -9,13 +9,13 @@ ul>li{
 .Pname{
 	text-align: center;
 	font-size: 18px;
-	color:#FF0000;
+	color:#337AB7;
 	font-weight: bold;
 }
 .PnameLG{
 	text-align: center;
 	font-size: 30px;
-	color:#FF0000;
+	color:#337AB7;
 	font-weight: bold;
 }
 .Pjob{
@@ -35,4 +35,7 @@ ul>li{
 .Ltitle{
 	font-weight: bold;
 	margin-top: 5%;
+}
+.linkWeb{
+	color: black;
 }
